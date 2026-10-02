@@ -1,0 +1,23 @@
+vcpkg.json
+  e7b328447f21149e 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "d46d296306e0ceaa1b88f2f4ae7d1ad82958bef5",
+  "prompts": {
+    "e7b328447f21149e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "94f6be01-b9fe-40c4-ac62-97600e448c12",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Themis Valtinos <73662635+themisvaltinos@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 2,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
