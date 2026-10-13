@@ -1,0 +1,27 @@
+src/execution/operator/iceberg_bytes_written.cpp
+  2f9db6e4aa509791 1-116
+test/sql/local/catalog_test_config_setup/catalog_agnostic/insert/test_profiler_bytes_written.test
+  2f9db6e4aa509791 1-111
+src/include/execution/operator/iceberg_bytes_written.hpp
+  2f9db6e4aa509791 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "e5411d27106ee8278bf885f9f1f987b2d40f60c0",
+  "prompts": {
+    "2f9db6e4aa509791": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "071bad72-d8f6-4b92-90b8-0a32fb21d43d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Themis Valtinos <73662635+themisvaltinos@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 280,
+      "overriden_lines": 0
+    }
+  }
+}
