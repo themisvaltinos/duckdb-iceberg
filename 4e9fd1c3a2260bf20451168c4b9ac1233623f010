@@ -1,0 +1,23 @@
+test/sql/local/irc/create/test_create_schema_if_not_exists_concurrent.test
+  66ae5ee64ee869ac 1-35,37,46-58,60-80,82-101,103-106,109-113,116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "4e9fd1c3a2260bf20451168c4b9ac1233623f010",
+  "prompts": {
+    "66ae5ee64ee869ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4f6a379e-1456-4a63-910a-a345ac2b0659",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Chris Rericha <chris@tobikodata.com>",
+      "messages": [],
+      "total_additions": 109,
+      "total_deletions": 0,
+      "accepted_lines": 100,
+      "overriden_lines": 9
+    }
+  }
+}
