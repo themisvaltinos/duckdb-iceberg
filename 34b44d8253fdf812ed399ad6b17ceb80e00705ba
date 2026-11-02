@@ -1,0 +1,23 @@
+test/sql/local/catalog_test_config_setup/catalog_agnostic/create/test_create_or_replace_table.test
+  2f9db6e4aa509791 1-252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "34b44d8253fdf812ed399ad6b17ceb80e00705ba",
+  "prompts": {
+    "2f9db6e4aa509791": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "071bad72-d8f6-4b92-90b8-0a32fb21d43d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Themis Valtinos <73662635+themisvaltinos@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 252,
+      "total_deletions": 0,
+      "accepted_lines": 252,
+      "overriden_lines": 0
+    }
+  }
+}
